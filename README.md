@@ -26,9 +26,8 @@ Here is how the project files are neatly organized inside the `src/` directory:
 
 Follow these easy steps to get the project up and running on your local machine:
 
-### 1. Download and Enter the Project
-1.git clone this repository
-2.Open the folder using the cd portfolio app
-3.Navigate into the direct folder
-4.Run npm install
-5.npm run dev to display on your browser
+- git clone this repository
+- Open the folder using the cd portfolio app
+- Navigate into the direct folder
+- Run npm install
+- npm run dev to display on your browser
